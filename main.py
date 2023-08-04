@@ -113,7 +113,7 @@ class HashApp(QtWidgets.QWidget):
             self.current_file_label.setText('Currently processing: None')
 
     def about(self):
-        app_name = "SHA-1 and MD5 Hash Creator"
+        app_name = "Recursive Hash Generator"
         version = "1.0"
         github_link = "https://github.com/Promootheus/Recursive-Hash-Generator"
 
